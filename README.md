@@ -17,7 +17,7 @@ failure.
 
 To use `wherr` in your Go project, run:
 
-    go get your-module-path/wherr # Replace with the actual module path if published
+    go get github.com/phillip-england/wherr
         
 
 🚀 Usage
